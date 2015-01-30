@@ -123,5 +123,4 @@ function circleVertex(cx, cy, r, n)
     return new Float32Array(temp);
 
 }
-    gl.clear( gl.COLOR_BUFFER_BIT );
-}
+
